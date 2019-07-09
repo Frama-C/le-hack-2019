@@ -1,10 +1,11 @@
 SPARTA Coding Challenges for Le Hack 2019
 =========================================
 
-These are small coding challenges for the SPARTA stand Le Hack 2019.
+These are small coding challenges for the SPARTA booth at Le Hack 2019.
 
 These programs contain some bugs (both deliberate and accidental) and it is
-your task to find and fix them.
+your task to find and fix them. Also, please indicate the tool(s) you used
+to find them, if any.
 
 **Note: the challenge is over! Some bugs were found and applied to the code,
 but more bugs still remain. You can try to find them for fun (but no profit)!**
